@@ -114,5 +114,5 @@ Contributions are welcome! Feel free to fork the project and submit a pull reque
 
 ## ⭐ Acknowledgements
 
-* Inspired by classic *Metroidvania* games
-* Built for learning and experimentation in game development
+* Inspired by classic *Metroidvania* games.
+* Built for learning and experimentation in game development.
