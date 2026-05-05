@@ -7,7 +7,7 @@ A classic 2D platformer built using **Python** and **Pygame**, inspired by *Metr
 ## 🚀 Features
 
 * 🎯 **Responsive Player Controls**
-  Smooth movement, jumping, and gravity-based physics
+  Smooth movement, jumping, and gravity-based physics.
 
 * 🧱 **Tile-Based Collision System**
   Efficient and scalable level design using grid-based maps
