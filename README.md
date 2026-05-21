@@ -10,7 +10,7 @@ A classic 2D platformer built using **Python** and **Pygame**, inspired by *Metr
   Smooth movement, jumping, and gravity-based physics.
 
 * 🧱 **Tile-Based Collision System**
-  Efficient and scalable level design using grid-based maps
+  Efficient and scalable level design using grid-based maps.
 
 * 🤖 **Basic Enemy AI**
   Simple enemy behaviors to create gameplay challenges
